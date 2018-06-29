@@ -1,0 +1,23 @@
+{
+  "name": "testwebhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milinakra/testwebhooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milinakra/testwebhooks/issues"
+  },
+  "homepage": "https://github.com/Milinakra/testwebhooks#readme",
+  "dependencies": {
+    "atob": "^1.0.0",
+    "ssri": "^5.1.0"
+  }
+}
