@@ -15,7 +15,11 @@
     "url": "https://github.com/Milinakra/testwebhooks/issues"
   },
   "homepage": "https://github.com/Milinakra/testwebhooks#readme",
-  "dependencies": {},
+  "dependencies": {
+    "atob": "^1.0.0",
+    "send": "^0.8.3",
+    "ssri": "^5.1.0"
+  },
   "devDependencies": {},
   "description": ""
 }
