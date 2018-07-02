@@ -16,8 +16,6 @@
   },
   "homepage": "https://github.com/Milinakra/testwebhooks#readme",
   "dependencies": {
-    "atob": "^1.0.0",
-    "send": "^0.8.3",
     "ssri": "^5.1.0"
   },
   "devDependencies": {},
